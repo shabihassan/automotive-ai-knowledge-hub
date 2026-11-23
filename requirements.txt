@@ -1,0 +1,10 @@
+gradio>=5,<6
+pypdf
+python-docx
+openpyxl
+xlrd
+pandas
+faiss-cpu
+sentence-transformers
+openai
+plotly
